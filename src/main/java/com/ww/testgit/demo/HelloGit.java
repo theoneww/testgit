@@ -2,7 +2,7 @@ package com.ww.testgit.demo;
 
 /**
  * @ Author: ww
- * @ Desc:
+ * @ Desc: 测试demo类
  * @ Date: Create in 13:34 2018/10/18
  */
 public class HelloGit {
