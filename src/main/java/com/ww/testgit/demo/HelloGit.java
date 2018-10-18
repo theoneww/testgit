@@ -8,7 +8,7 @@ package com.ww.testgit.demo;
 public class HelloGit {
 
     public String helloGit(){
-        return "老子今天就要学会git！！！";
+        return "老子今天就要学会git！！！，你学会了吗？";
     }
 
 }
